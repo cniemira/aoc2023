@@ -5,3 +5,4 @@ AoC 2023
 * day02 - tcl
 * day03 - perl
 * day04 - awk
+* day05 - lua

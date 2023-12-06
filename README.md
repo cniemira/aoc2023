@@ -6,3 +6,4 @@ AoC 2023
 * day03 - perl
 * day04 - awk
 * day05 - lua
+* day06 - python

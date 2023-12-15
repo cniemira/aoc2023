@@ -8,3 +8,4 @@ AoC 2023
 * day05 - lua
 * day06 - python
 * day07 - c
+* day08 - python
